@@ -5,10 +5,13 @@
 Created during the first Week of Berkeley Coding Bootcamp. The challenge was to create a Responsive Portfolio .
 
 <h1>Technologies Used</h1> 
-Google Fonts
-Bootstrap
-HTML
-CSS
+
+<tr>
+<li>Google Fonts</li>
+<li>Bootstrap</li>
+<li>HTML</li>
+<li>CSS</li>
+</tr>
 
 <h1>Authors</h1> 
 Jose Castellanos - 
