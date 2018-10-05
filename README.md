@@ -3,6 +3,7 @@
 
 
 Created during the first Week of Berkeley Coding Bootcamp. The challenge was to create a Responsive Portfolio .
+https://jose408510.github.io/responsive_portfolio/
 
 <h1>Technologies Used</h1> 
 
